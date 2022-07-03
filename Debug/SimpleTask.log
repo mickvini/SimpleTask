@@ -1,0 +1,3 @@
+﻿  Header.cpp
+D:\,kd\VS\Работы\SimpleTask\Header.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SimpleTask.vcxproj -> D:\,kd\VS\Работы\SimpleTask\Debug\SimpleTask.exe
